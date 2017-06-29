@@ -29,6 +29,6 @@ Now again have a look on flow :
 
 UI ---> web.xml ---> dispatcher-servlet.xml --->Controller ---> Service ---> Dao --->DB
 
-Now just got through the code & read the comments written in code for more understanding on Spring Basics. 
+Now just go through the code & read the comments written in code for more understanding on Spring Basics. 
 
 
