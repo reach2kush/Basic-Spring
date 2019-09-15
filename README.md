@@ -9,7 +9,7 @@ UI ---> Spring ---> DB (imagine as jsp--->java classes --->oracle DB).
 
 Now we will divide Spring into three layer for code maintainability : 
 
-Controller ----> Service ----> Dao
+Controller ----> Service ----> Dao.
 
 Controller will talk with UI & your service layer .Controller takes request from UI & pass it to Service layer in proper format.
 
