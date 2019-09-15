@@ -19,7 +19,7 @@ Dao layer talks with service & Database .In Dao layer ,you will find CRUD operat
 
 Now again have a look on flow :
 
-UI --->Controller ---> Service ---> Dao --->DB
+UI --->Controller ---> Service ---> Dao --->DB.
 
 To talk about Spring more , Spring works on Configuration file (dispatcher-servlet.xml) where you specify what spring will do for you.
 
@@ -27,7 +27,7 @@ In web.xml , based on your url pattern mapping we are redirecting to Spring Conf
 
 Now again have a look on flow :
 
-UI ---> web.xml ---> dispatcher-servlet.xml --->Controller ---> Service ---> Dao --->DB
+UI ---> web.xml ---> dispatcher-servlet.xml --->Controller ---> Service ---> Dao --->DB.
 
 Now just go through the code & read the comments written in code for more understanding on Spring Basics. 
 
